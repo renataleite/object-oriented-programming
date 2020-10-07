@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\object_oriented_programming.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\object_oriented_programming.genruntimeconfig.cache
