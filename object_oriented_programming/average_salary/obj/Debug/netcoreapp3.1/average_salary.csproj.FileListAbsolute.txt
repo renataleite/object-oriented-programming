@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\bin\Debug\netcoreapp3.1\average_salary.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\average_salary\obj\Debug\netcoreapp3.1\average_salary.genruntimeconfig.cache

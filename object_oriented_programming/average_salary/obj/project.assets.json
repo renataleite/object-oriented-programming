@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\object_oriented_programming\\area_triangle.csproj",
-      "projectName": "area_triangle",
-      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\object_oriented_programming\\area_triangle.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\average_salary\\average_salary.csproj",
+      "projectName": "average_salary",
+      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\average_salary\\average_salary.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\object_oriented_programming\\obj\\",
+      "outputPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\average_salary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",

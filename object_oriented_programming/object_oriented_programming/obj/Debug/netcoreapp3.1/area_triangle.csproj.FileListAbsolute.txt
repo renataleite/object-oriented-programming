@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\bin\Debug\netcoreapp3.1\area_triangle.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\object_oriented_programming\obj\Debug\netcoreapp3.1\area_triangle.genruntimeconfig.cache

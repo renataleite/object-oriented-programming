@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\bin\Debug\netcoreapp3.1\people_data.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\people_data\obj\Debug\netcoreapp3.1\people_data.genruntimeconfig.cache
