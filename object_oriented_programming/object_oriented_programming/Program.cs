@@ -21,11 +21,9 @@ namespace object_oriented_programming
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaY = y.Area();
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4"));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4"));
