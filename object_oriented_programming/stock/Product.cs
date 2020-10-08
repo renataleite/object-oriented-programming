@@ -17,12 +17,17 @@ namespace stock
 
         public void AddProducts(int quantity)
         {
-            Stoque = Stoque + quantity;
+            Stoque += quantity;
         }
 
         public void RemoveProducts(int quantity)
         {
             Stoque = Stoque - quantity;
+        }
+
+        public override string ToString()
+        {
+            return Name + ", $" + Price.ToString("F2") + ", " + Stoque + " unidades, Total: §" + TotalStock().ToString("F2");
         }
     }
 }

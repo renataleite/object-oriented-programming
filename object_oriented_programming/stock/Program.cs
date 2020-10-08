@@ -18,15 +18,15 @@ namespace stock
             Console.Write("Quantidade no estoque: ");
             p1.Stoque = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Dados do produto: " + p1.Name + ", $" + p1.Price.ToString("F2") + ", " + p1.Stoque + " unidades" + ", Total: §" + p1.TotalStock().ToString("F2"));
+            Console.WriteLine("Dados do produto: " + p1);
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int quantity = int.Parse(Console.ReadLine());
             p1.AddProducts(quantity);
-            Console.WriteLine("Dados atualizados: " + p1.Name + ", $" + p1.Price.ToString("F2") + ", " + p1.Stoque + " unidades" + ", Total: §" + p1.TotalStock().ToString("F2"));
+            Console.WriteLine("Dados atualizados: " + p1);
             Console.Write("Digite o número de produtos a ser removido ao estoque: ");
             quantity = int.Parse(Console.ReadLine());
             p1.RemoveProducts(quantity);
-            Console.WriteLine("Dados atualizados: " + p1.Name + ", $" + p1.Price.ToString("F2") + ", " + p1.Stoque + " unidades" + ", Total: §" + p1.TotalStock().ToString("F2"));
+            Console.WriteLine("Dados atualizados: " + p1);
 
 
 
