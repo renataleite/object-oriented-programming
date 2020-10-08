@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "person_data", "person_data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average_salary", "average_salary\average_salary.csproj", "{3F4B903F-F025-4ACC-8A1A-B972F200883A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stock", "stock\stock.csproj", "{8495B31A-498A-47FC-9BF2-391C81C0482F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3F4B903F-F025-4ACC-8A1A-B972F200883A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4B903F-F025-4ACC-8A1A-B972F200883A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4B903F-F025-4ACC-8A1A-B972F200883A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8495B31A-498A-47FC-9BF2-391C81C0482F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8495B31A-498A-47FC-9BF2-391C81C0482F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8495B31A-498A-47FC-9BF2-391C81C0482F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8495B31A-498A-47FC-9BF2-391C81C0482F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

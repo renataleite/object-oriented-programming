@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\bin\Debug\netcoreapp3.1\stock.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\stock\obj\Debug\netcoreapp3.1\stock.genruntimeconfig.cache
