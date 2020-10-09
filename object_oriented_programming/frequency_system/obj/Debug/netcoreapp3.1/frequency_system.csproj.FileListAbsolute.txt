@@ -10,3 +10,4 @@ C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_pro
 C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\frequency_system\obj\Debug\netcoreapp3.1\frequency_system.dll
 C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\frequency_system\obj\Debug\netcoreapp3.1\frequency_system.pdb
 C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\frequency_system\obj\Debug\netcoreapp3.1\frequency_system.genruntimeconfig.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\frequency_system\obj\Debug\netcoreapp3.1\frequency_system.csprojAssemblyReference.cache

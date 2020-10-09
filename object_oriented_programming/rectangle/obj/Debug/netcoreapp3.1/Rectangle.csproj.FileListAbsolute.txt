@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
