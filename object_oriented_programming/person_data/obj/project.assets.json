@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\person_data\\person_data.csproj",
-      "projectName": "person_data",
-      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\person_data\\person_data.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\person_data\\PersonData.csproj",
+      "projectName": "PersonData",
+      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\person_data\\PersonData.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\person_data\\obj\\",
       "projectStyle": "PackageReference",

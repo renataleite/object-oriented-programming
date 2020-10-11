@@ -6,17 +6,25 @@ namespace stock
     {
         static void Main(string[] args)
         {
-            Product p1;
+            Product p = new Product("TV", 500.00, 10);
 
-            p1 = new Product();
+            p.Name = "T";
 
-            Console.WriteLine("Entre os dados do produto: ");
+            Console.WriteLine(p.Name);
+            Console.WriteLine(p.Price);
+
+            /*Console.WriteLine("Entre os dados do produto: ");
             Console.Write("Nome: ");
-            p1.Name = Console.ReadLine();
+            string name = Console.ReadLine();
             Console.Write("Preco: ");
-            p1.Price = double.Parse(Console.ReadLine());
+            double price = double.Parse(Console.ReadLine());
             Console.Write("Quantidade no estoque: ");
-            p1.Stoque = int.Parse(Console.ReadLine());
+            int stock = int.Parse(Console.ReadLine());
+
+            Product p1 = new Product(name, price, stock);
+
+            Product p2 = new Product(name, price);
+
 
             Console.WriteLine("Dados do produto: " + p1);
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
@@ -26,7 +34,7 @@ namespace stock
             Console.Write("Digite o número de produtos a ser removido ao estoque: ");
             quantity = int.Parse(Console.ReadLine());
             p1.RemoveProducts(quantity);
-            Console.WriteLine("Dados atualizados: " + p1);
+            Console.WriteLine("Dados atualizados: " + p1);*/
 
 
 

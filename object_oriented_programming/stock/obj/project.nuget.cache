@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7z9mX7qKU+ZjmpqI3RqSNgR8L5VoDAEUoAWEYgDFd3v7ONjmKkPkKiTFvSJTEMAWYzYM7xgn1b5KRQ/ov+0Q+w==",
+  "dgSpecHash": "x8Mpw9mcQh4DRsKl2WWVGW+4gTMYD2bJHc7fFCjCyiCXifi2hLvjWu/QMATbjnX8cmWME345rsMhBsOND51z3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\stock\\stock.csproj",
+  "projectFilePath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\stock\\Stock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

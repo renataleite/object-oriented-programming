@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\Dollar Price\\Dollar Price.csproj",
-      "projectName": "Dollar Price",
-      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\Dollar Price\\Dollar Price.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\Dollar Price\\DollarPrice.csproj",
+      "projectName": "DollarPrice",
+      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\Dollar Price\\DollarPrice.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\Dollar Price\\obj\\",
       "projectStyle": "PackageReference",

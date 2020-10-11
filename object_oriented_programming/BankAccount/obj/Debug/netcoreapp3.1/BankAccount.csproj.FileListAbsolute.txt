@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache

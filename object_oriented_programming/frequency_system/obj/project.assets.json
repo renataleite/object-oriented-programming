@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\frequency_system\\frequency_system.csproj",
-      "projectName": "frequency_system",
-      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\frequency_system\\frequency_system.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\frequency_system\\FrequencySystem.csproj",
+      "projectName": "FrequencySystem",
+      "projectPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\frequency_system\\FrequencySystem.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\renat\\Desktop\\Projects\\object _oriented_programming\\object_oriented_programming\\frequency_system\\obj\\",
       "projectStyle": "PackageReference",

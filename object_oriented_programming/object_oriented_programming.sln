@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "area_triangle", "object_oriented_programming\area_triangle.csproj", "{D2A5BAB4-2ABD-401C-B59D-64ABA9DBE275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaTriangle", "object_oriented_programming\AreaTriangle.csproj", "{D2A5BAB4-2ABD-401C-B59D-64ABA9DBE275}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "person_data", "person_data\person_data.csproj", "{157DBF1E-CEFA-4DEC-89E0-3E2F78491E4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonData", "person_data\PersonData.csproj", "{157DBF1E-CEFA-4DEC-89E0-3E2F78491E4E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "average_salary", "average_salary\average_salary.csproj", "{3F4B903F-F025-4ACC-8A1A-B972F200883A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageSalary", "average_salary\AverageSalary.csproj", "{3F4B903F-F025-4ACC-8A1A-B972F200883A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stock", "stock\stock.csproj", "{8495B31A-498A-47FC-9BF2-391C81C0482F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stock", "stock\Stock.csproj", "{8495B31A-498A-47FC-9BF2-391C81C0482F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frequency_system", "frequency_system\frequency_system.csproj", "{66B52C77-9D17-4614-BD56-7F891633DFF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrequencySystem", "frequency_system\FrequencySystem.csproj", "{66B52C77-9D17-4614-BD56-7F891633DFF1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "rectangle\Rectangle.csproj", "{ECE985FB-6876-49C6-B035-55997F865C2F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee_data", "Employee_data\Employee_data.csproj", "{41411449-A094-4244-83E7-B1CA4C4E965B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeData", "Employee_data\EmployeeData.csproj", "{41411449-A094-4244-83E7-B1CA4C4E965B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final Grade", "Final Grade\Final Grade.csproj", "{808E71DA-DDD0-4713-A932-4F601E1661EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalGrade", "Final Grade\FinalGrade.csproj", "{808E71DA-DDD0-4713-A932-4F601E1661EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dollar Price", "Dollar Price\Dollar Price.csproj", "{F4FDAE03-D513-4895-AAB3-7BD549CBD138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DollarPrice", "Dollar Price\DollarPrice.csproj", "{F4FDAE03-D513-4895-AAB3-7BD549CBD138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{842FD532-F878-44C8-B6F3-E09ED89DF135}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F4FDAE03-D513-4895-AAB3-7BD549CBD138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4FDAE03-D513-4895-AAB3-7BD549CBD138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4FDAE03-D513-4895-AAB3-7BD549CBD138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842FD532-F878-44C8-B6F3-E09ED89DF135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842FD532-F878-44C8-B6F3-E09ED89DF135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842FD532-F878-44C8-B6F3-E09ED89DF135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842FD532-F878-44C8-B6F3-E09ED89DF135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

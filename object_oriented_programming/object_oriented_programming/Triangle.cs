@@ -4,7 +4,7 @@ using System.Text;
 
 namespace object_oriented_programming
 {
-    class Triangulo
+    class Triangle
     {
         public double A;
         public double B;

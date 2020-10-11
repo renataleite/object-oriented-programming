@@ -6,10 +6,10 @@ namespace object_oriented_programming
     {
         static void Main(string[] args)
         {
-            Triangulo x, y;
+            Triangle x, y;
 
-            x = new Triangulo();
-            y = new Triangulo();
+            x = new Triangle();
+            y = new Triangle();
 
             Console.WriteLine("Entre com as medidas do triangulo X: ");
             x.A = double.Parse(Console.ReadLine());
