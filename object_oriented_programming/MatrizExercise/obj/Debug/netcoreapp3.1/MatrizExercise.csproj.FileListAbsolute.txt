@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\bin\Debug\netcoreapp3.1\MatrizExercise.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizExercise\obj\Debug\netcoreapp3.1\MatrizExercise.genruntimeconfig.cache

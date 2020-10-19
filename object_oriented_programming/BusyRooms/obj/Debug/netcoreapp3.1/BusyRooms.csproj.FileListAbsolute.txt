@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\bin\Debug\netcoreapp3.1\BusyRooms.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\BusyRooms\obj\Debug\netcoreapp3.1\BusyRooms.genruntimeconfig.cache

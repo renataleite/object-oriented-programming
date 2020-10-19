@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

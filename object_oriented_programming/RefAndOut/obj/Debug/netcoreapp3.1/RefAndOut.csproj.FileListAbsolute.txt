@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.genruntimeconfig.cache

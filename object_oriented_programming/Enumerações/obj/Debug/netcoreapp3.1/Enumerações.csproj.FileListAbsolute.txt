@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\bin\Debug\netcoreapp3.1\Enumerações.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\Enumerações\obj\Debug\netcoreapp3.1\Enumerações.genruntimeconfig.cache

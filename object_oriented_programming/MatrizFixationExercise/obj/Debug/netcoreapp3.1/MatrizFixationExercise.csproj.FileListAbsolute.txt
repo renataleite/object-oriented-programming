@@ -1,0 +1,12 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\bin\Debug\netcoreapp3.1\MatrizFixationExercise.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\MatrizFixationExercise\obj\Debug\netcoreapp3.1\MatrizFixationExercise.genruntimeconfig.cache
