@@ -43,13 +43,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefAndOut", "RefAndOut\RefA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEach", "ForEach\ForEach.csproj", "{328B9205-A107-4D3C-A5C0-FD703B3FDC94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExercise", "ListExercise\ListExercise.csproj", "{0349B0A6-C1D7-4170-B1C4-EAB6B9F6DBDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListExercise", "ListExercise\ListExercise.csproj", "{0349B0A6-C1D7-4170-B1C4-EAB6B9F6DBDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{A63197C7-C672-4900-92EB-9D645605A05E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz", "Matriz\Matriz.csproj", "{A63197C7-C672-4900-92EB-9D645605A05E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizExercise", "MatrizExercise\MatrizExercise.csproj", "{91FAE0D9-8B87-4411-A9E8-A5DBA46F3153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrizExercise", "MatrizExercise\MatrizExercise.csproj", "{91FAE0D9-8B87-4411-A9E8-A5DBA46F3153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizFixationExercise", "MatrizFixationExercise\MatrizFixationExercise.csproj", "{9E5E40AF-DBE5-43C4-A657-3E6ECE4E7B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrizFixationExercise", "MatrizFixationExercise\MatrizFixationExercise.csproj", "{9E5E40AF-DBE5-43C4-A657-3E6ECE4E7B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryConditionalExpression", "TernaryConditionalExpression\TernaryConditionalExpression.csproj", "{33268200-FBC9-4678-AB6A-14AA13D64AB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{9E5E40AF-DBE5-43C4-A657-3E6ECE4E7B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E5E40AF-DBE5-43C4-A657-3E6ECE4E7B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E5E40AF-DBE5-43C4-A657-3E6ECE4E7B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33268200-FBC9-4678-AB6A-14AA13D64AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33268200-FBC9-4678-AB6A-14AA13D64AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33268200-FBC9-4678-AB6A-14AA13D64AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33268200-FBC9-4678-AB6A-14AA13D64AB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
