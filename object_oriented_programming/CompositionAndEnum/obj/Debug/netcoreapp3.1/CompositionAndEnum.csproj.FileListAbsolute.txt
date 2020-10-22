@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\bin\Debug\netcoreapp3.1\CompositionAndEnum.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\CompositionAndEnum\obj\Debug\netcoreapp3.1\CompositionAndEnum.genruntimeconfig.cache
