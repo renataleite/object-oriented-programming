@@ -1,0 +1,13 @@
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.exe
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.deps.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.runtimeconfig.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.runtimeconfig.dev.json
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\bin\Debug\netcoreapp3.1\PriceTags.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.csprojAssemblyReference.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.AssemblyInfo.cs
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.dll
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.pdb
+C:\Users\renat\Desktop\Projects\object _oriented_programming\object_oriented_programming\PriceTags\obj\Debug\netcoreapp3.1\PriceTags.genruntimeconfig.cache

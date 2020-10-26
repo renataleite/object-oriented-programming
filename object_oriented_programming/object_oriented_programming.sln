@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoStringBuilder", "DemoSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositionAndEnum", "CompositionAndEnum\CompositionAndEnum.csproj", "{690E34FE-099B-4B78-9FC0-38EC53F5453E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payments", "Payments\Payments.csproj", "{B447A898-A421-4324-90EB-1D31DD51F858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payments", "Payments\Payments.csproj", "{B447A898-A421-4324-90EB-1D31DD51F858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceTags", "PriceTags\PriceTags.csproj", "{163BD585-98B5-4E20-8C44-F8AF95542169}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{B447A898-A421-4324-90EB-1D31DD51F858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B447A898-A421-4324-90EB-1D31DD51F858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B447A898-A421-4324-90EB-1D31DD51F858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163BD585-98B5-4E20-8C44-F8AF95542169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163BD585-98B5-4E20-8C44-F8AF95542169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163BD585-98B5-4E20-8C44-F8AF95542169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163BD585-98B5-4E20-8C44-F8AF95542169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
